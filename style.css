@@ -1,0 +1,35 @@
+h2 {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px;
+    font-size: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#position {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 24px;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    margin: 2rem
+}
+
+#planet {
+    border: 1px solid black;
+}
